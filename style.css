@@ -315,3 +315,24 @@ ul {
   margin-bottom: 1.2em;
   padding: 0.25em 1em 0.2em 1em;
 }
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3) {
+  #page1, #particles{
+    height: 30vh;
+  }
+  #page2{
+    height: 25vh;
+  }
+  #page3{
+    height: 25vh;
+  }
+  #page5{
+    height:20vh;
+  }
+  #page6{
+    height: 15vh;
+  }
+}
