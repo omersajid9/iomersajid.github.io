@@ -60,9 +60,9 @@ ul {
   height:200px;
   width: 200px;
   margin: 5px;
-/*   transform: scale(0.8) translateY(-1rem) translateX(0); */
+  /*   transform: scale(0.8) translateY(-1rem) translateX(0); */
   background: #333;
-  opacity: 0.2;
+  opacity: 0.4;
   transition: 0.5s;
 }
 
